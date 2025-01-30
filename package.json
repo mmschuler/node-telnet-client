@@ -5,8 +5,8 @@
     "name": "Mario Kozjak",
     "email": "kozjakm1@gmail.com"
   },
-  "type":"commonjs",
-  "version": "2.0.0",
+  "type": "commonjs",
+  "version": "2.0.1",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "engine": "node >= 6.9.1",
